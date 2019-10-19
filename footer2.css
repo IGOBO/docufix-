@@ -1,0 +1,157 @@
+
+
+.one{
+/* Rectangle 5 */
+
+position: fixed;
+width: 100%;
+height: 135px;
+left: 0px;
+top: 4px;
+
+background: #000000;
+}
+.two{
+/* Rectangle 6 */
+
+position: fixed;
+width: 100%;
+height: 1236px;
+left: 0px;
+top: 142px;
+
+background: #DDE8E8;
+}
+
+.three{
+/* Rectangle 4 */
+
+position: fixed;
+width: 100%;
+height: 3776px;
+left: 0px;
+top: 0px;
+
+background: #BDBDBD;
+}
+
+.four{
+    /* Rectangle 50 */
+
+position: fixed;
+width: 100%;
+height: 145px;
+
+background: #000000;
+}
+
+ul {
+    list-style-type: none;
+    position: fixed;
+    display: block;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C4C4C4;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%; 
+
+    /* Rectangle 49 */
+
+position: absolute;
+width: 1808px;
+height: 153px;
+
+
+  }
+  
+  li {
+    float: left;
+    border-right:1px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
+
+[href="#home"]{
+/* DOCUFIX */
+
+position: absolute;
+width: 197px;
+height: 58px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+
+color: #F2F2F2;
+
+}
+[href="#copy"]{
+/* copyright 2019 Docufix.io and HNG6 affiliates */
+
+position: absolute;
+width: 771px;
+height: 41px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 41px;
+
+color: #FFFFFF;
+
+}
+[href="#facebook"]{
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F5F5F5;
+}
+[href="#twitter"]{
+/* Vector */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: #FFFFFF;
+}
+[href="#instagram"]{
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #FFFFFF;
+}
